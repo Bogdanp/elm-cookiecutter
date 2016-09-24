@@ -1,6 +1,7 @@
 # elm-cookiecutter
 
-A [cookiecutter][cc] template for Elm projects.
+A [cookiecutter][cc] template for Elm projects.  See [this post][post]
+for more information.
 
 ## Setup
 
@@ -9,3 +10,4 @@ A [cookiecutter][cc] template for Elm projects.
 
 
 [cc]: https://github.com/audreyr/cookiecutter
+[post]: http://defn.io/posts/2016-09-24-elm-cookiecutter.html
