@@ -1,0 +1,30 @@
+{
+  "name": "{{cookiecutter.name}}",
+  "version": "1.0.0",
+  "description": "{{cookiecutter.description}}",
+  "main": "js/app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "css-loader": "^0.25.0",
+    "elm": "^0.17.1",
+    "elm-webpack-loader": "^3.0.6",
+    "node-sass": "^3.10.0",
+    "open": "0.0.5",
+    "sass-loader": "^4.0.2",
+    "spa-server": "^1.0.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2",
+    "webpack-preset-babel-es2015": "^0.2.0"
+  },
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:Bogdanp/elm-cookiecutter.git"
+  },
+  "author": "Bogdan Popa",
+  "license": "BSD-3-Clause"
+}
